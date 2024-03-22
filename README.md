@@ -1,4 +1,4 @@
-# Herbalmix eCommerce Site
+# HerbalMix Website
 
 ## Description
 
