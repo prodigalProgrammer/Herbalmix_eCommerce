@@ -1,8 +1,12 @@
+import Navbar from "./components/Navbar";
+import HomeCards from "./components/HomeCards";
+
 const App = () => {
   return (
-    <>
-      <h1 className="text-5xl">App</h1>
-    </>
+    <div>
+      <Navbar title="My Title" cool={`Daddy Cool!`} />
+      <HomeCards />
+    </div>
   );
 };
 
